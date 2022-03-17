@@ -1,4 +1,4 @@
-<img src="http://photo.linuxacme.cn/2022/03/17/ff0a29475be9a.jpg" style="zoom:25%;" />
+<img src="http://photo.linuxacme.cn/2022/03/17/ff0a29475be9a.jpg" style="width:25%;" />
 
 [TOC]
 
