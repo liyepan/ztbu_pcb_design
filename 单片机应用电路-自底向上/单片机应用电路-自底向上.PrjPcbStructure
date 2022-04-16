@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=单片机系统电路.SchDoc
+Record=SheetSymbol|SourceDocument=单片机系统电路.SchDoc|Designator=U_单片机系统电路symbol|SchDesignator=U_单片机系统电路symbol|FileName=单片机系统电路symbol.SchDoc|SymbolType=Normal|RawFileName=单片机系统电路symbol.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=单片机系统电路.SchDoc|Designator=U_扩展存储器电路symbol|SchDesignator=U_扩展存储器电路symbol|FileName=扩展存储器电路symbol.SchDoc|SymbolType=Normal|RawFileName=扩展存储器电路symbol.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=单片机系统电路.SchDoc|Designator=U_显示及键盘电路symbol|SchDesignator=U_显示及键盘电路symbol|FileName=显示及键盘电路symbol.SchDoc|SymbolType=Normal|RawFileName=显示及键盘电路symbol.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
