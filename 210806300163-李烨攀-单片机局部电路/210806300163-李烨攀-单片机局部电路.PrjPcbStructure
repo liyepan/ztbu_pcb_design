@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=单片机局部电路.SchDoc
+Record=SheetSymbol|SourceDocument=单片机局部电路.SchDoc|Designator=U_max|SchDesignator=U_max|FileName=max.SchDoc|SymbolType=Normal|RawFileName=max.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=单片机局部电路.SchDoc|Designator=U_mcu|SchDesignator=U_mcu|FileName=mcu.SchDoc|SymbolType=Normal|RawFileName=mcu.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=单片机局部电路.SchDoc|Designator=U_mic|SchDesignator=U_mic|FileName=mic.SchDoc|SymbolType=Normal|RawFileName=mic.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

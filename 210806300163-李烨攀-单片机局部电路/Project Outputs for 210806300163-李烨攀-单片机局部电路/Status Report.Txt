@@ -1,0 +1,10 @@
+Output: Report Project Hierarchy
+Type  : ReportHierarchy
+From  : Variant [[No Variations]] of Project [210806300163-李烨攀-单片机局部电路.PrjPcb]
+   Generated File[单片机局部电路.REP]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 21:22:16 On 2022/4/18
